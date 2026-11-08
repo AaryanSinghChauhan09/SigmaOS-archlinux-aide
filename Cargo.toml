@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-aide"
+name = "sigmaos_archlinux_aide"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-aide component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-aide component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-aide"
+name = "sigmaos_archlinux_aide"
 path = "src/lib.rs"
